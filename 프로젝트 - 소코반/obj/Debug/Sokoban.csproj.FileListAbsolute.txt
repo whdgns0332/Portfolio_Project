@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\자료\프로젝트 - 소코반\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\admin\Desktop\자료\프로젝트 - 소코반\bin\Debug\WindowsFormsApp7.exe
+C:\Users\admin\Desktop\자료\프로젝트 - 소코반\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\admin\Desktop\자료\프로젝트 - 소코반\obj\Debug\Sokoban.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\자료\프로젝트 - 소코반\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\admin\Desktop\자료\프로젝트 - 소코반\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\admin\Desktop\자료\프로젝트 - 소코반\obj\Debug\Sokoban.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\자료\프로젝트 - 소코반\obj\Debug\Sokoban.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\자료\프로젝트 - 소코반\obj\Debug\WindowsFormsApp7.exe
+C:\Users\admin\Desktop\자료\프로젝트 - 소코반\obj\Debug\WindowsFormsApp7.pdb
