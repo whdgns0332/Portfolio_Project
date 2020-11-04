@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\자료\차트 기준선 구현\bin\Debug\차트 기준선 구현.exe.config
+C:\Users\admin\Desktop\자료\차트 기준선 구현\bin\Debug\차트 기준선 구현.exe
+C:\Users\admin\Desktop\자료\차트 기준선 구현\bin\Debug\차트 기준선 구현.pdb
+C:\Users\admin\Desktop\자료\차트 기준선 구현\obj\Debug\차트 기준선 구현.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\자료\차트 기준선 구현\obj\Debug\차트_기준선_구현.Form1.resources
+C:\Users\admin\Desktop\자료\차트 기준선 구현\obj\Debug\차트_기준선_구현.Properties.Resources.resources
+C:\Users\admin\Desktop\자료\차트 기준선 구현\obj\Debug\차트 기준선 구현.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\자료\차트 기준선 구현\obj\Debug\차트 기준선 구현.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\자료\차트 기준선 구현\obj\Debug\차트 기준선 구현.exe
+C:\Users\admin\Desktop\자료\차트 기준선 구현\obj\Debug\차트 기준선 구현.pdb
