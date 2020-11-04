@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\XML데이터 차트화\bin\Debug\XML데이터 차트화.exe.config
+C:\Users\admin\source\repos\XML데이터 차트화\bin\Debug\XML데이터 차트화.exe
+C:\Users\admin\source\repos\XML데이터 차트화\bin\Debug\XML데이터 차트화.pdb
+C:\Users\admin\source\repos\XML데이터 차트화\obj\Debug\XML데이터 차트화.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\XML데이터 차트화\obj\Debug\XML데이터_차트화.Form1.resources
+C:\Users\admin\source\repos\XML데이터 차트화\obj\Debug\XML데이터_차트화.Properties.Resources.resources
+C:\Users\admin\source\repos\XML데이터 차트화\obj\Debug\XML데이터 차트화.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\XML데이터 차트화\obj\Debug\XML데이터 차트화.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\XML데이터 차트화\obj\Debug\XML데이터 차트화.exe
+C:\Users\admin\source\repos\XML데이터 차트화\obj\Debug\XML데이터 차트화.pdb
