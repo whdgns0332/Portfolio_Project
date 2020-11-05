@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\자료\프로젝트 - 선택지 패드\obj\Debug\프로젝트 - 선택지 패드.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\자료\프로젝트 - 선택지 패드\obj\Debug\프로젝트___선택지_패드.Form1.resources
+C:\Users\admin\Desktop\자료\프로젝트 - 선택지 패드\obj\Debug\프로젝트___선택지_패드.Properties.Resources.resources
+C:\Users\admin\Desktop\자료\프로젝트 - 선택지 패드\obj\Debug\프로젝트 - 선택지 패드.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\자료\프로젝트 - 선택지 패드\obj\Debug\프로젝트 - 선택지 패드.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\자료\프로젝트 - 선택지 패드\bin\Debug\프로젝트 - 선택지 패드.exe.config
+C:\Users\admin\Desktop\자료\프로젝트 - 선택지 패드\bin\Debug\프로젝트 - 선택지 패드.exe
+C:\Users\admin\Desktop\자료\프로젝트 - 선택지 패드\bin\Debug\프로젝트 - 선택지 패드.pdb
+C:\Users\admin\Desktop\자료\프로젝트 - 선택지 패드\obj\Debug\프로젝트 - 선택지 패드.exe
+C:\Users\admin\Desktop\자료\프로젝트 - 선택지 패드\obj\Debug\프로젝트 - 선택지 패드.pdb
+C:\Users\admin\Desktop\자료\프로젝트 - 선택지 패드\obj\Debug\프로젝트___선택지_패드.NumPad.resources
