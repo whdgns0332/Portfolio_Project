@@ -1,0 +1,43 @@
+C:\GitTest\Miniproject_Hamburger\bin\Debug\Miniproject_Hamburger.exe.config
+C:\GitTest\Miniproject_Hamburger\bin\Debug\Miniproject_Hamburger.exe
+C:\GitTest\Miniproject_Hamburger\bin\Debug\Miniproject_Hamburger.pdb
+C:\GitTest\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.csprojAssemblyReference.cache
+C:\GitTest\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.HamMakerForm.resources
+C:\GitTest\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.MainForm.resources
+C:\GitTest\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.Properties.Resources.resources
+C:\GitTest\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.csproj.GenerateResource.cache
+C:\GitTest\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.csproj.CoreCompileInputs.cache
+C:\GitTest\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.exe
+C:\GitTest\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.pdb
+C:\GitTest (2)\Miniproject_Hamburger\bin\Debug\Miniproject_Hamburger.exe.config
+C:\GitTest (2)\Miniproject_Hamburger\bin\Debug\Miniproject_Hamburger.exe
+C:\GitTest (2)\Miniproject_Hamburger\bin\Debug\Miniproject_Hamburger.pdb
+C:\GitTest (2)\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.csprojAssemblyReference.cache
+C:\GitTest (2)\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.HamMakerForm.resources
+C:\GitTest (2)\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.MainForm.resources
+C:\GitTest (2)\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.OrderForm.resources
+C:\GitTest (2)\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.Properties.Resources.resources
+C:\GitTest (2)\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.csproj.GenerateResource.cache
+C:\GitTest (2)\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.csproj.CoreCompileInputs.cache
+C:\GitTest (2)\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.exe
+C:\GitTest (2)\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.pdb
+C:\GitTest (2)\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.Form1.resources
+C:\MiniProject\Miniproject_Hamburger\bin\Debug\Miniproject_Hamburger.exe.config
+C:\MiniProject\Miniproject_Hamburger\bin\Debug\Miniproject_Hamburger.exe
+C:\MiniProject\Miniproject_Hamburger\bin\Debug\Miniproject_Hamburger.pdb
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.csprojAssemblyReference.cache
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.Form1.resources
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.HamMakerForm.resources
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.MainForm.resources
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.OrderForm.resources
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.Properties.Resources.resources
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.csproj.GenerateResource.cache
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.csproj.CoreCompileInputs.cache
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.exe
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.pdb
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.AddAccountForm.resources
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\MiniProject_Hamburger.LoginForm.resources
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.SearchIDForm.resources
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.SelectSearchForm.resources
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.SearchPasswordForm.resources
+C:\MiniProject\Miniproject_Hamburger\obj\Debug\Miniproject_Hamburger.DeleteAccountForm.resources
