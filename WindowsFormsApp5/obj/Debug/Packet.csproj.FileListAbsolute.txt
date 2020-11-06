@@ -1,7 +1,0 @@
-C:\Users\admin\source\repos\WindowsFormsApp5\obj\Debug\Packet.csprojAssemblyReference.cache
-C:\Users\admin\source\repos\WindowsFormsApp5\obj\Debug\Packet.Form1.resources
-C:\Users\admin\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
-C:\Users\admin\source\repos\WindowsFormsApp5\obj\Debug\Packet.csproj.GenerateResource.cache
-C:\Users\admin\source\repos\WindowsFormsApp5\obj\Debug\Packet.csproj.CoreCompileInputs.cache
-C:\Users\admin\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
-C:\Users\admin\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
