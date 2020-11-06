@@ -1,0 +1,217 @@
+2020-09-22 10-13-14.934 : ★★★★★[Exception][DBConnect][Search]                        => 사용자 'sa'이(가) 로그인하지 못했습니다.
+
+Select * from TB_User
+                                     where User_ID = @ID and User_PW = @Password
+
+2020-09-22 14-52-19.560 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'from' 근처의 구문이 잘못되었습니다.
+
+select I.Item_Name, M.
+                                       from TB_Item as I
+                                      inner join  as IM
+                                         on I.Item_No = IM.
+                                      inner join  as M
+                                         on IM. = M.
+                                      where I.Item_Name = @ItemName
+
+2020-09-22 14-52-19.592 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'from' 근처의 구문이 잘못되었습니다.
+
+select I.Item_Name, M.
+                                       from TB_Item as I
+                                      inner join  as IM
+                                         on I.Item_No = IM.
+                                      inner join  as M
+                                         on IM. = M.
+                                      where I.Item_Name = @ItemName
+
+2020-09-22 14-52-31.380 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'from' 근처의 구문이 잘못되었습니다.
+
+select I.Item_Name, M.
+                                       from TB_Item as I
+                                      inner join  as IM
+                                         on I.Item_No = IM.
+                                      inner join  as M
+                                         on IM. = M.
+                                      where I.Item_Name = @ItemName
+
+2020-09-22 14-52-36.209 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'from' 근처의 구문이 잘못되었습니다.
+
+select I.Item_Name, M.
+                                       from TB_Item as I
+                                      inner join  as IM
+                                         on I.Item_No = IM.
+                                      inner join  as M
+                                         on IM. = M.
+                                      where I.Item_Name = @ItemName
+
+2020-09-22 14-58-05.423 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'from' 근처의 구문이 잘못되었습니다.
+
+select I.Item_Name, M.
+                                       from TB_Item as I
+                                      inner join  as IM
+                                         on I.Item_No = IM.
+                                      inner join  as M
+                                         on IM. = M.
+                                      where I.Item_Name = @ItemName
+
+2020-09-22 14-58-05.457 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'from' 근처의 구문이 잘못되었습니다.
+
+select I.Item_Name, M.
+                                       from TB_Item as I
+                                      inner join  as IM
+                                         on I.Item_No = IM.
+                                      inner join  as M
+                                         on IM. = M.
+                                      where I.Item_Name = @ItemName
+
+2020-09-22 14-58-17.105 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'from' 근처의 구문이 잘못되었습니다.
+
+select I.Item_Name, M.
+                                       from TB_Item as I
+                                      inner join  as IM
+                                         on I.Item_No = IM.
+                                      inner join  as M
+                                         on IM. = M.
+                                      where I.Item_Name = @ItemName
+
+2020-09-22 14-58-19.380 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'from' 근처의 구문이 잘못되었습니다.
+
+select I.Item_Name, M.
+                                       from TB_Item as I
+                                      inner join  as IM
+                                         on I.Item_No = IM.
+                                      inner join  as M
+                                         on IM. = M.
+                                      where I.Item_Name = @ItemName
+
+2020-09-22 15-00-11.249 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'from' 근처의 구문이 잘못되었습니다.
+
+select I.Item_Name, M.
+                                       from TB_Item as I
+                                      inner join  as IM
+                                         on I.Item_No = IM.
+                                      inner join  as M
+                                         on IM. = M.
+                                      where I.Item_Name = @ItemName
+
+2020-09-22 15-01-13.977 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'from' 근처의 구문이 잘못되었습니다.
+
+select I.Item_Name, M.
+                                       from TB_Item as I
+                                      inner join  as IM
+                                         on I.Item_No = IM.
+                                      inner join  as M
+                                         on IM. = M.
+                                      where I.Item_Name = @ItemName
+
+2020-09-22 15-04-23.259 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-04-23.270 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-04-23.288 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-05-15.549 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-05-15.561 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-05-15.583 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-05-22.729 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-05-37.790 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-05-37.826 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-05-37.867 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-06-50.223 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-06-50.256 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-06-50.296 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-07-29.959 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-07-29.972 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-07-29.994 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-07-44.116 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-07-44.153 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-07-44.196 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-10-09.743 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-10-09.756 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-10-09.780 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-11-35.935 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-11-35.978 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-11-36.019 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-12-02.943 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-12-02.976 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+
+2020-09-22 15-12-03.017 : ★★★★★[Exception][DBConnect][Search]                        => ExecuteReader: CommandText 속성이 초기화되지 않았습니다.
+
+
+

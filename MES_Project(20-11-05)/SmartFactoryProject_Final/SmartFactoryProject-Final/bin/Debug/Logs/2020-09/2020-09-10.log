@@ -1,0 +1,84 @@
+2020-09-10 10-40-22.768 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-10 10-40-22.820 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-10 14-47-29.946 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-10 14-47-29.990 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-10 15-01-03.555 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-10 15-01-03.602 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-10 15-35-53.024 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-10 15-35-53.073 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-10 15-36-20.096 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-10 15-36-20.144 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-10 16-32-44.680 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-10 16-32-44.729 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-10 18-57-36.900 : ★★★★★[Exception][DBConnect][Search]                        => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-10 18-57-50.928 : ★★★★★[Exception][DBConnect][Search]                        => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code

@@ -1,0 +1,1632 @@
+2020-09-26 10-09-16.947 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-09-16.962 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-10-50.306 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-10-50.322 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-10-52.040 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-10-55.756 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-11-17.449 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-15-57.911 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-15-57.926 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-16-01.578 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-16-02.791 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-16-09.029 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-20-42.103 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-20-42.118 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-21-32.300 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-21-32.316 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-24-01.426 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-24-01.442 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-24-21.303 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-24-21.320 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-26-14.933 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-26-14.948 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-29-11.263 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-29-11.276 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-34-09.025 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-34-09.040 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-34-26.811 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-34-26.825 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-34-49.612 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-34-49.629 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-35-23.798 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-35-23.811 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-42-24.622 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-42-24.637 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-51-53.657 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-51-53.672 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-52-16.476 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-52-16.494 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-53-34.304 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 10-53-34.317 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-11-41.583 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-11-41.602 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-13-22.867 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-13-22.881 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-21-52.414 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-21-52.427 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-32-58.661 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-32-58.673 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-34-28.483 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-34-28.496 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-35-23.066 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-35-23.081 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-38-04.472 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-38-04.488 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-38-09.380 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-38-09.396 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-38-27.161 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-38-27.177 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-38-33.496 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-38-33.512 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-39-37.562 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-39-37.578 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-39-44.659 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-39-44.674 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-44-01.133 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-44-01.148 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-57-20.285 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-57-20.301 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-57-27.617 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 11-57-27.617 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-18-11.847 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-18-11.861 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-19-03.407 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-19-03.423 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-19-23.002 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-19-23.020 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-19-40.458 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-19-40.475 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-20-32.928 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-20-32.944 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-20-44.840 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-20-44.855 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-21-38.475 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-21-38.490 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-22-30.859 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-22-30.875 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-22-42.045 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-22-42.060 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-23-01.739 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-23-01.753 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-23-19.655 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-23-19.670 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-23-30.439 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-23-30.454 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-23-40.915 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-23-40.930 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-23-54.700 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-23-54.714 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-24-25.089 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-24-25.104 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-24-37.414 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-24-37.428 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-25-09.348 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-25-09.363 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-25-26.082 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-25-26.096 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-25-43.154 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-25-43.171 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-25-50.252 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-25-50.267 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-25-58.079 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-25-58.093 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-26-42.783 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-26-42.796 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-27-01.421 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-27-01.438 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-27-08.304 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-27-08.319 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-27-15.983 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-27-15.998 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-27-23.103 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-27-23.120 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-28-28.925 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-28-28.944 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-28-53.139 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-28-53.153 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-30-26.114 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-30-26.128 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-30-44.817 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-30-44.832 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-30-53.312 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-30-53.327 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-31-01.859 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-31-01.876 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-31-11.330 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-31-11.345 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-31-18.941 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-31-18.956 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-31-39.484 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-31-39.499 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-33-00.360 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-33-00.377 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-33-32.159 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-33-32.176 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-34-11.569 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-34-11.586 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-34-40.834 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-34-40.850 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-35-01.982 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-35-01.998 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-35-21.984 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-35-21.999 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-35-40.736 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-35-40.753 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-35-58.104 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-35-58.119 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-36-08.223 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-36-08.239 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-36-30.145 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-36-30.159 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-46-23.328 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-46-23.342 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-56-24.928 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-56-24.945 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-56-30.277 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 14-56-30.292 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-02-49.553 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-02-49.574 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-02-51.171 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-02-53.859 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-03-37.829 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-03-37.829 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-03-46.087 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-03-46.133 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-03-48.266 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-03-49.597 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-03-58.287 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-03-58.302 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-06-04.837 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 15-06-04.853 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-26 16-39-19.123 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\JY_최종프로젝트 (20-09-26)\SmartFactoryProject-Final\bin\Debug\Resource\Background\생산계획.png
+이미지 C:\Users\admin\Desktop\JY_최종프로젝트 (20-09-26)\SmartFactoryProject-Final\bin\Debug\Resource\Background\생산계획.png가 존재하지 않습니다
+
+2020-09-26 16-49-47.121 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\JY_최종프로젝트 (20-09-26)\SmartFactoryProject-Final\bin\Debug\Resource\Background\생산계획.png
+이미지 C:\Users\admin\Desktop\JY_최종프로젝트 (20-09-26)\SmartFactoryProject-Final\bin\Debug\Resource\Background\생산계획.png가 존재하지 않습니다
+
+2020-09-26 16-50-32.577 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\JY_최종프로젝트 (20-09-26)\SmartFactoryProject-Final\bin\Debug\Resource\Background\생산계획.png
+이미지 C:\Users\admin\Desktop\JY_최종프로젝트 (20-09-26)\SmartFactoryProject-Final\bin\Debug\Resource\Background\생산계획.png가 존재하지 않습니다
+
+2020-09-26 16-52-09.784 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\JY_최종프로젝트 (20-09-26)\SmartFactoryProject-Final\bin\Debug\Resource\Background\생산계획.png
+이미지 C:\Users\admin\Desktop\JY_최종프로젝트 (20-09-26)\SmartFactoryProject-Final\bin\Debug\Resource\Background\생산계획.png가 존재하지 않습니다
+

@@ -1,0 +1,384 @@
+2020-09-09 13-58-21.173 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 13-58-21.266 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 13-58-58.359 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 13-58-58.428 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-00-10.350 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-00-10.426 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-14-51.192 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-14-51.274 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-15-01.073 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-15-01.167 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-16-06.732 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-16-06.832 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-16-29.568 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-16-29.655 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-16-47.334 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-16-47.424 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-21-45.140 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-21-45.243 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-22-20.531 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-22-20.614 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-23-12.184 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-23-12.270 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-31-23.656 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-31-23.732 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-31-31.352 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-31-31.437 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-34-10.673 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-34-10.777 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-36-42.693 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-36-42.772 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-54-41.367 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-54-41.445 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-57-33.790 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-57-33.884 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-57-50.508 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 14-57-50.588 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 15-03-35.439 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 15-03-35.521 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 15-03-46.813 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 15-03-46.888 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 15-13-41.959 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 15-13-42.045 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-27-39.289 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-27-39.351 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-27-51.292 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-27-51.358 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-30-27.272 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-30-27.358 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-30-38.735 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-30-38.813 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-31-30.716 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-31-30.815 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-31-36.103 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-31-36.180 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-33-20.533 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-33-20.628 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-34-04.041 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-34-04.135 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-34-35.398 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-34-35.487 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-35-55.139 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-35-55.234 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-36-06.331 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code
+2020-09-09 18-36-06.402 : ★★★★★[Exception][DB_Connect][Search]                       => 매개 변수 값을 KeyValuePair`2에서 Int32(으)로 변환하지 못했습니다.
+
+Select 일자, 품번,
+                                           계획수량, 공정코드
+                                      from TB_order
+                                     where 작업지시번호 = @Code

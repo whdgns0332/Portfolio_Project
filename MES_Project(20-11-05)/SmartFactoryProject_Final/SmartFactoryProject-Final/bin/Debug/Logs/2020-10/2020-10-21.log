@@ -1,0 +1,5 @@
+2020-10-21 15-18-56.877 : ★★★★★[Exception][DBConnect][ExecuteProcedure]              => INSERT 문이 FOREIGN KEY 제약 조건 "FK_TB_Output_RegisterID"과(와) 충돌했습니다. 데이터베이스 "inTownProjectDB", 테이블 "dbo.TB_User", column 'User_ID'에서 충돌이 발생했습니다.
+문이 종료되었습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+EXEC SPP_SET_OUTPUT '7', '2020-10-21', '15:18:50', '15:18:56', '1', '1001', '201', '101', '6', '6', '0', 'False', null, '200912001'
+

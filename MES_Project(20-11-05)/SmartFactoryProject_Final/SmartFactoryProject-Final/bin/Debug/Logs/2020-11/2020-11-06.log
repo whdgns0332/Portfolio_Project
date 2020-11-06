@@ -1,0 +1,98 @@
+2020-11-06 14-50-47.707 : ★★★★★[Exception][DBConnect][ExecuteProcedure]              => 사용자 'sa'이(가) 로그인하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+
+
+2020-11-06 14-51-20.852 : ★★★★★[Exception][DBConnect][ExecuteProcedure]              => 사용자 'sa'이(가) 로그인하지 못했습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+
+
+2020-11-06 14-52-32.054 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-52-32.067 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-52-34.621 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-52-34.629 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-53-01.450 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-53-01.461 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-53-04.245 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-53-04.254 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-53-16.846 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-53-16.856 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-53-22.364 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-53-22.373 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-54-06.495 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-54-06.507 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-59-03.558 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-59-03.567 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-59-04.742 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 14-59-04.752 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 16-15-41.637 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 16-15-41.647 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 16-15-44.270 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 16-15-44.278 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 16-15-47.239 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 16-15-47.251 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 16-15-55.061 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 16-15-55.075 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 16-15-57.032 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 16-15-57.042 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+
+2020-11-06 16-16-06.430 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_up_nomal.png가 존재하지 않습니다
+
+2020-11-06 16-16-06.438 : ★★★★★[Exception][ControlLayout][SetBackgroundImage]        => C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png
+이미지 C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-05) - Full [불필요 이미지 제거]\SmartFactoryProject_Final\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\scroll_h190_down_nomal.png가 존재하지 않습니다
+

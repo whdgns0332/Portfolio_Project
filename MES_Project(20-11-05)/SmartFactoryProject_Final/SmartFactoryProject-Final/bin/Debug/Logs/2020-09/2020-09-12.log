@@ -1,0 +1,142 @@
+2020-09-12 10-55-07.123 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 '계획일자'이(가) 유효하지 않습니다.
+열 이름 '계획일자'이(가) 유효하지 않습니다.
+
+Select Orders.작업지시번호,
+                                       Orders.계획일자,
+                                       Items.품명,
+                                       Orders.계획수량
+                                  from TB_order as Orders
+                                  Inner Join TB_item as Items
+                                          On Orders.품번 = Items.품번
+                                       Where DateDiff(DAY, GETDATE(), Orders.계획일자) >= 0
+
+2020-09-12 11-23-30.703 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 '계획일자'이(가) 유효하지 않습니다.
+열 이름 '계획일자'이(가) 유효하지 않습니다.
+
+Select Orders.작업지시번호,
+                                       Orders.계획일자,
+                                       Items.품명,
+                                       Orders.계획수량
+                                  from TB_order as Orders
+                                  Inner Join TB_item as Items
+                                          On Orders.품번 = Items.품번
+                                       Where DateDiff(DAY, GETDATE(), Orders.계획일자) >= 0
+
+2020-09-12 17-27-49.344 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'userID'이(가) 유효하지 않습니다.
+열 이름 'userPW'이(가) 유효하지 않습니다.
+
+Select * from TB_user where userID = @ID and userPW = @Password
+
+2020-09-12 17-53-10.105 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'where' 근처의 구문이 잘못되었습니다.
+
+Select O.Order_Date, O.Ref_Item_No, I.Item_Name,
+                                           O.Order_Qty, O.Ref_Proc_Code, P. Proc_Name
+                                      from TB_Order as O
+                                      Inner Join TB_Item as I
+                                              on O.Ref_Item_No = I.Item_No
+                                      Inner Join  TB_Code_Proc as P
+                                              where Order_No = @Code
+
+2020-09-12 17-53-10.200 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'where' 근처의 구문이 잘못되었습니다.
+
+Select O.Order_Date, O.Ref_Item_No, I.Item_Name,
+                                           O.Order_Qty, O.Ref_Proc_Code, P. Proc_Name
+                                      from TB_Order as O
+                                      Inner Join TB_Item as I
+                                              on O.Ref_Item_No = I.Item_No
+                                      Inner Join  TB_Code_Proc as P
+                                              where Order_No = @Code
+
+2020-09-12 17-53-11.874 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'where' 근처의 구문이 잘못되었습니다.
+
+Select O.Order_Date, O.Ref_Item_No, I.Item_Name,
+                                           O.Order_Qty, O.Ref_Proc_Code, P. Proc_Name
+                                      from TB_Order as O
+                                      Inner Join TB_Item as I
+                                              on O.Ref_Item_No = I.Item_No
+                                      Inner Join  TB_Code_Proc as P
+                                              where Order_No = @Code
+
+2020-09-12 17-53-12.784 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'where' 근처의 구문이 잘못되었습니다.
+
+Select O.Order_Date, O.Ref_Item_No, I.Item_Name,
+                                           O.Order_Qty, O.Ref_Proc_Code, P. Proc_Name
+                                      from TB_Order as O
+                                      Inner Join TB_Item as I
+                                              on O.Ref_Item_No = I.Item_No
+                                      Inner Join  TB_Code_Proc as P
+                                              where Order_No = @Code
+
+2020-09-12 17-53-13.705 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'where' 근처의 구문이 잘못되었습니다.
+
+Select O.Order_Date, O.Ref_Item_No, I.Item_Name,
+                                           O.Order_Qty, O.Ref_Proc_Code, P. Proc_Name
+                                      from TB_Order as O
+                                      Inner Join TB_Item as I
+                                              on O.Ref_Item_No = I.Item_No
+                                      Inner Join  TB_Code_Proc as P
+                                              where Order_No = @Code
+
+2020-09-12 17-54-34.985 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'where' 근처의 구문이 잘못되었습니다.
+
+Select O.Order_Date, O.Ref_Item_No, I.Item_Name,
+                                           O.Order_Qty, O.Ref_Proc_Code, P. Proc_Name
+                                      from TB_Order as O
+                                      Inner Join TB_Item as I
+                                              on O.Ref_Item_No = I.Item_No
+                                      Inner Join  TB_Code_Proc as P
+                                              where O.Order_No = @Code
+
+2020-09-12 17-54-35.055 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'where' 근처의 구문이 잘못되었습니다.
+
+Select O.Order_Date, O.Ref_Item_No, I.Item_Name,
+                                           O.Order_Qty, O.Ref_Proc_Code, P. Proc_Name
+                                      from TB_Order as O
+                                      Inner Join TB_Item as I
+                                              on O.Ref_Item_No = I.Item_No
+                                      Inner Join  TB_Code_Proc as P
+                                              where O.Order_No = @Code
+
+2020-09-12 17-54-36.396 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'where' 근처의 구문이 잘못되었습니다.
+
+Select O.Order_Date, O.Ref_Item_No, I.Item_Name,
+                                           O.Order_Qty, O.Ref_Proc_Code, P. Proc_Name
+                                      from TB_Order as O
+                                      Inner Join TB_Item as I
+                                              on O.Ref_Item_No = I.Item_No
+                                      Inner Join  TB_Code_Proc as P
+                                              where O.Order_No = @Code
+
+2020-09-12 17-56-03.494 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'where' 근처의 구문이 잘못되었습니다.
+
+Select O.Order_Date, O.Ref_Item_No, I.Item_Name,
+                                           O.Order_Qty, O.Ref_Proc_Code, P. Proc_Name
+                                      from TB_Order as O
+                                      Inner Join TB_Item as I
+                                              on O.Ref_Item_No = I.Item_No
+                                      Inner Join  TB_Code_Proc as P
+                                              on O.Ref_Proc_Code = P. Proc_Code;
+                                              where O.Order_No = @Code
+
+2020-09-12 17-56-03.575 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'where' 근처의 구문이 잘못되었습니다.
+
+Select O.Order_Date, O.Ref_Item_No, I.Item_Name,
+                                           O.Order_Qty, O.Ref_Proc_Code, P. Proc_Name
+                                      from TB_Order as O
+                                      Inner Join TB_Item as I
+                                              on O.Ref_Item_No = I.Item_No
+                                      Inner Join  TB_Code_Proc as P
+                                              on O.Ref_Proc_Code = P. Proc_Code;
+                                              where O.Order_No = @Code
+
+2020-09-12 17-56-04.913 : ★★★★★[Exception][DBConnect][Search]                        => 키워드 'where' 근처의 구문이 잘못되었습니다.
+
+Select O.Order_Date, O.Ref_Item_No, I.Item_Name,
+                                           O.Order_Qty, O.Ref_Proc_Code, P. Proc_Name
+                                      from TB_Order as O
+                                      Inner Join TB_Item as I
+                                              on O.Ref_Item_No = I.Item_No
+                                      Inner Join  TB_Code_Proc as P
+                                              on O.Ref_Proc_Code = P. Proc_Code;
+                                              where O.Order_No = @Code
+
