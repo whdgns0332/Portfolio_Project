@@ -8,3 +8,13 @@ C:\Users\hun\source\repos\베이스볼_결과_예상하기\obj\Debug\베이스�
 C:\Users\hun\source\repos\베이스볼_결과_예상하기\obj\Debug\베이스볼_결과_예상하기.csproj.CoreCompileInputs.cache
 C:\Users\hun\source\repos\베이스볼_결과_예상하기\obj\Debug\베이스볼_결과_예상하기.exe
 C:\Users\hun\source\repos\베이스볼_결과_예상하기\obj\Debug\베이스볼_결과_예상하기.pdb
+C:\Users\admin\Desktop\local\베이스볼_결과_예상하기\bin\Debug\베이스볼_결과_예상하기.exe.config
+C:\Users\admin\Desktop\local\베이스볼_결과_예상하기\bin\Debug\베이스볼_결과_예상하기.exe
+C:\Users\admin\Desktop\local\베이스볼_결과_예상하기\bin\Debug\베이스볼_결과_예상하기.pdb
+C:\Users\admin\Desktop\local\베이스볼_결과_예상하기\obj\Debug\베이스볼_결과_예상하기.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\local\베이스볼_결과_예상하기\obj\Debug\베이스볼_결과_예상하기.Form1.resources
+C:\Users\admin\Desktop\local\베이스볼_결과_예상하기\obj\Debug\베이스볼_결과_예상하기.Properties.Resources.resources
+C:\Users\admin\Desktop\local\베이스볼_결과_예상하기\obj\Debug\베이스볼_결과_예상하기.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\local\베이스볼_결과_예상하기\obj\Debug\베이스볼_결과_예상하기.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\local\베이스볼_결과_예상하기\obj\Debug\베이스볼_결과_예상하기.exe
+C:\Users\admin\Desktop\local\베이스볼_결과_예상하기\obj\Debug\베이스볼_결과_예상하기.pdb
