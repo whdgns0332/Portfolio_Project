@@ -1,9 +1,0 @@
-2020-10-20 16-08-34.688 : ★★★★★[Exception][DBConnect][ExecuteProcedure]              => 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
-Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
-EXEC SPP_SET_OUTPUT '7', '2020-10-20 오전 12:00:00', '16:08:20', '16:08:34', '1', '1001', '201', '101', '14', '14', '0', 'False'
-
-2020-10-20 16-15-24.085 : ★★★★★[Exception][DBConnect][ExecuteProcedure]              => INSERT 문이 FOREIGN KEY 제약 조건 "FK_TB_Output_RegisterID"과(와) 충돌했습니다. 데이터베이스 "inTownProjectDB", 테이블 "dbo.TB_User", column 'User_ID'에서 충돌이 발생했습니다.
-문이 종료되었습니다.
-Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
-EXEC SPP_SET_OUTPUT '7', '2020-10-20', '16:15:06', '16:15:19', '1', '1001', '201', '101', '13', '13', '0', 'False', '', ''
-
