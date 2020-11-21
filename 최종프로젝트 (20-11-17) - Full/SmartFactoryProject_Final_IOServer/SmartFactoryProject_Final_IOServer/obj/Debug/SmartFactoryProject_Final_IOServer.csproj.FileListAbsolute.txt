@@ -1,0 +1,20 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\bin\Debug\SmartFactoryProject_Final_IOServer.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\bin\Debug\SmartFactoryProject_Final_IOServer.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\bin\Debug\SmartFactoryProject_Final_IOServer.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.FRM_Main.resources
+C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-10) - Full\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\bin\Debug\SmartFactoryProject_Final_IOServer.exe.config
+C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-10) - Full\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\bin\Debug\SmartFactoryProject_Final_IOServer.exe
+C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-10) - Full\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\bin\Debug\SmartFactoryProject_Final_IOServer.pdb
+C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-10) - Full\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-10) - Full\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.FRM_Main.resources
+C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-10) - Full\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.Properties.Resources.resources
+C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-10) - Full\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-10) - Full\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-10) - Full\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.csproj.CopyComplete
+C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-10) - Full\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.exe
+C:\Users\admin\Desktop\자료\팀 프로젝트\최종프로젝트 (20-11-10) - Full\SmartFactoryProject_Final_IOServer\SmartFactoryProject_Final_IOServer\obj\Debug\SmartFactoryProject_Final_IOServer.pdb

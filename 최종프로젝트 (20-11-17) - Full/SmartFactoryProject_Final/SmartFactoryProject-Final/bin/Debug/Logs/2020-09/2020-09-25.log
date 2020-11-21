@@ -1,0 +1,32 @@
+2020-09-25 14-40-26.462 : ★★★★★[Exception][DBConnect][Search]                        => varchar 값 '7 - 2020-09-12 손소독제1'을(를) 데이터 형식 int(으)로 변환하지 못했습니다.
+
+Select O.Order_Date, O.Ref_Item_No, I.Item_Name,
+                                           O.Order_Qty, O.Ref_Proc_Code, P. Proc_Name
+                                      from TB_Order as O
+                                      Inner Join TB_Item as I
+                                              on O.Ref_Item_No = I.Item_No
+                                      Inner Join  TB_Code_Proc as P
+                                              on O.Ref_Proc_Code = P. Proc_Code
+                                              where O.Order_No = @Code
+
+2020-09-25 14-43-57.927 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-25 14-43-57.984 : ★★★★★[Exception][DBConnect][Search]                        => 열 이름 'Ref_Mold_No'이(가) 유효하지 않습니다.
+열 이름 'Ref_Item_No'이(가) 유효하지 않습니다.
+
+Select M. Mold_No, M. Mold_Name
+		                               from TB_Item_Mold as IM
+		                               inner join TB_Mold as M
+		                                       on IM.Ref_Mold_No = M. Mold_No
+		                                    where IM.Ref_Item_No = @ItemCode
+
+2020-09-25 18-53-58.873 : ★★★★★[Exception][ControlLayout][SetImage]                  => C:\Users\admin\Documents\Visual Studio 2015\Projects\Temporal\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\아이콘.png
+이미지 C:\Users\admin\Documents\Visual Studio 2015\Projects\Temporal\SmartFactoryProject-Final\bin\Debug\Resource\TEXTIMG\아이콘.png가 존재하지 않습니다
+

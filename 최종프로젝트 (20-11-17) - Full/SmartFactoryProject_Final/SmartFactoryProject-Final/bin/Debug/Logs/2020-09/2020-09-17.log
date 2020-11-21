@@ -1,0 +1,16 @@
+2020-09-17 18-04-08.382 : ★★★★★[Exception][DBConnect][Search]                        => 스칼라 변수 "@Mach"을(를) 선언해야 합니다.
+
+Select CheckDate, CheckVal from TB_Q_Control
+                                          Where Ref_Mach_Code = @Mach AND
+                                                Ref_QM_Code = @QMcode
+                                          Order by CheckDate DESC
+                                             Limit 30
+
+2020-09-17 18-05-27.366 : ★★★★★[Exception][DBConnect][Search]                        => 'Limit' 근처의 구문이 잘못되었습니다.
+
+Select CheckDate, CheckVal from TB_Q_Control
+                                          Where Ref_Mach_Code = @Mach AND
+                                                Ref_QM_Code = @QMcode
+                                          Order by CheckDate DESC
+                                             Limit 30
+

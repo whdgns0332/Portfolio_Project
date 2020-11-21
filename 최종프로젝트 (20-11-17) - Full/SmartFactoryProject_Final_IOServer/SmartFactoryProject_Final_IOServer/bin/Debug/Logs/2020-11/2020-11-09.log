@@ -1,0 +1,6 @@
+2020-11-09 10-48-46.798 : ★★★★★[Exception][DBConnect][TryTransaction]                => PRIMARY KEY 제약 조건 'PK_TB_Q_Control'을(를) 위반했습니다. 개체 'dbo.TB_Q_Control'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (101, PQ, 2020-11-09 10:48:46)입니다.
+문이 종료되었습니다.
+
+2020-11-09 10-48-48.769 : ★★★★★[Exception][DBConnect][TryTransaction]                => PRIMARY KEY 제약 조건 'PK_TB_Q_Control'을(를) 위반했습니다. 개체 'dbo.TB_Q_Control'에 중복 키를 삽입할 수 없습니다. 중복 키 값은 (101, PQ, 2020-11-09 10:48:48)입니다.
+문이 종료되었습니다.
+

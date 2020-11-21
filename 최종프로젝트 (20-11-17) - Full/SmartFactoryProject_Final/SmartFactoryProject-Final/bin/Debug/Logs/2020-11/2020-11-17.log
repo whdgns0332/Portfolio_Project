@@ -1,0 +1,10 @@
+2020-11-17 16-29-53.123 : ★★★★★[Exception][DBConnect][ExecuteProcedure]              => INSERT 문이 FOREIGN KEY 제약 조건 "FK_TB_Output_RegisterID"과(와) 충돌했습니다. 데이터베이스 "inTownProjectDB", 테이블 "dbo.TB_User", column 'User_ID'에서 충돌이 발생했습니다.
+문이 종료되었습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+
+
+2020-11-17 16-31-56.709 : ★★★★★[Exception][DBConnect][ExecuteProcedure]              => INSERT 문이 FOREIGN KEY 제약 조건 "FK_TB_Output_RegisterID"과(와) 충돌했습니다. 데이터베이스 "inTownProjectDB", 테이블 "dbo.TB_User", column 'User_ID'에서 충돌이 발생했습니다.
+문이 종료되었습니다.
+Data Source=127.0.0.1;Initial Catalog=inTownProjectDB;Persist Security Info=True;User ID=sa;Password=p@ssw0rd!@
+EXEC SPP_SET_OUTPUT @PARAM0, @PARAM1, @PARAM2, @PARAM3, @PARAM4, @PARAM5, @PARAM6, @PARAM7, @PARAM8, @PARAM9, @PARAM10, @PARAM11, NULL, @PARAM13
+
